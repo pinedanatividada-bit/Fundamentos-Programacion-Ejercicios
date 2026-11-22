@@ -18,6 +18,6 @@ int main()
             mayor = numeros[i];
         } 
     } 
-    cout << "El numero mayor es: " << mayor << endl;
+    cout << "El numero mayor ingresado es: " << mayor;
     return 0; 
 }

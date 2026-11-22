@@ -4,5 +4,5 @@ Algoritmo SumaPares
 	Para i<-2 Hasta 100 Con Paso 2 Hacer
 		suma <- suma+i;
 	FinPara
-	Escribir 'La suma de los pares del 1 al 100 es: ', suma;
+	Escribir 'La suma de los numeros pares del 1 al 100 es: ', suma;
 FinAlgoritmo

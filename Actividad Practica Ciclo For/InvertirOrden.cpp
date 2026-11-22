@@ -11,7 +11,7 @@ int main()
         cout << "Ingresa el nombre " << i+1 << ": "; 
         getline(cin, nombres[i]);
     } 
-    cout << "En orden inverso:" << endl; 
+    cout << "Los nombres en orden inverso son:" << endl; 
     for (int i = 4; i >= 0; i--)
     {
         cout << nombres[i] << endl; 

@@ -12,5 +12,5 @@ Algoritmo NumeroMayor
 			mayor <- numeros[i];
 		FinSi
 	FinPara
-	Escribir "El numero mayor es: ", mayor;
+	Escribir "El numero mayor ingresado es: ", mayor;
 FinAlgoritmo

@@ -24,6 +24,6 @@ int main()
             total += precios[i]; 
         }
     } 
-    cout << "Total a pagar: $" << total << endl; 
+    cout << "Total a pagar por productos mayores a $50 pesos: $" << total << endl;
     return 0; 
 } 

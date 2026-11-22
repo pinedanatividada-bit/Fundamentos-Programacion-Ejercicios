@@ -16,6 +16,6 @@ Algoritmo SumaFilasMatriz
 			sumaFila <- sumaFila + matriz[i,j];
 		FinPara
 		Escribir "";
-		Escribir "Suma de la fila ", i+1, ": ", sumaFila;
+		Escribir "La suma total de la fila ", i+1, " es: ", sumaFila;
 	FinPara
 FinAlgoritmo 

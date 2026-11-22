@@ -8,6 +8,6 @@ int main()
     { 
         suma += i; 
     } 
-    cout << "La suma de los pares del 1 al 100 es: " << suma << endl; 
+    cout << "La suma de los numeros pares del 1 al 100 es: " << suma << endl; 
     return 0; 
 } 

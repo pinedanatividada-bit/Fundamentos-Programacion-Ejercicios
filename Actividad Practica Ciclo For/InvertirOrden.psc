@@ -6,7 +6,7 @@ Algoritmo InvertirOrden
 		Escribir "Ingresa el nombre ", i+1, ": ";
 		Leer nombres[i];
 	FinPara
-	Escribir "En orden inverso:";
+	Escribir "Los nombres en orden inverso son:";
 	Para i <- 4 Hasta 0 Con Paso -1 Hacer
 		Escribir nombres[i];
 	FinPara

@@ -22,7 +22,7 @@ int main()
             sumaFila += matriz[i][j]; 
         } 
         cout << endl; 
-        cout << "Suma de la fila " << i+1 << ": " << sumaFila << endl; 
+        cout << "La suma total de la fila " << i+1 << " es: " << sumaFila;
     } 
     return 0; 
 } 

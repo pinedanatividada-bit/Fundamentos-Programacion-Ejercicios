@@ -19,5 +19,5 @@ Algoritmo INVENTARIO
 			total <- total + precios[i];
 		FinSi
 	FinPara
-	Escribir "Total de productos mayores a $50: $", total;
+	Escribir "Total a pagar por productos mayores a $50 pesos: $", total;
 FinAlgoritmo
