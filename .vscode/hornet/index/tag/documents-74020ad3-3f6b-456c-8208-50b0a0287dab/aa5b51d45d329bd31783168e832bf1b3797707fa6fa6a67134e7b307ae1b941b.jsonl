@@ -1,0 +1,6 @@
+{"includes":[]}
+{"text":"#include <iostream>\n\nusing namespace std;\n\nint main() {\n    \ncout<<\"hola mundo\";\n\n    return 0;\n}\n"}
+{"symbols":[{"name":"std","kind":3,"selectionRange":{"start":{"line":2,"character":16},"end":{"line":2,"character":19}},"range":{"start":{"line":2,"character":16},"end":{"line":2,"character":19}},"definition":true},{"name":"main","kind":12,"definition":true,"selectionRange":{"start":{"line":4,"character":4},"end":{"line":4,"character":8}},"range":{"start":{"line":4,"character":0},"end":{"line":9,"character":1}},"function":{"scope":"","parameters":[],"returnType":"int","minArguments":0,"variadic":false,"fileLocal":false}}]}
+{"occurrences":[{"name":"std","range":{"start":{"line":2,"character":16},"end":{"line":2,"character":19}},"namespace":"","access":["read"],"subobject":false,"typeName":false},{"name":"main","range":{"start":{"line":4,"character":4},"end":{"line":4,"character":8}},"namespace":"","access":["read"],"subobject":false,"typeName":false},{"name":"cout","range":{"start":{"line":6,"character":0},"end":{"line":6,"character":4}},"namespace":"","access":["read"],"subobject":false,"typeName":false}]}
+{"folds":[{"start":{"line":4,"character":11},"end":{"line":9,"character":1}}]}
+{"complete":"file:///c%3A/Users/Andi/Downloads/ejerciciosC%2B%2B/ActivdadesC%2B%2B/prueba1.cpp"}
