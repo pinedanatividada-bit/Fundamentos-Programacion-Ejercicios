@@ -15,4 +15,3 @@ Algoritmo Ejercicio2
 	Escribir "La suma es: ", suma;
 FinAlgoritmo
 	
-
