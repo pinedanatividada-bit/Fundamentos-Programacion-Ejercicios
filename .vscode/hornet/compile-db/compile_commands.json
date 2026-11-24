@@ -1,0 +1,132 @@
+[
+  {
+    "directory": "c:\\Users\\Andi\\Downloads\\ejerciciosC++",
+    "file": "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\calificacion_1.cpp",
+    "arguments": [
+      "clang++",
+      "-Ic:\\Users\\Andi\\Downloads\\ejerciciosC++",
+      "-c",
+      "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\calificacion_1.cpp"
+    ]
+  },
+  {
+    "directory": "c:\\Users\\Andi\\Downloads\\ejerciciosC++",
+    "file": "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\edad_1.cpp",
+    "arguments": [
+      "clang++",
+      "-Ic:\\Users\\Andi\\Downloads\\ejerciciosC++",
+      "-c",
+      "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\edad_1.cpp"
+    ]
+  },
+  {
+    "directory": "c:\\Users\\Andi\\Downloads\\ejerciciosC++",
+    "file": "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\edades_2.cpp",
+    "arguments": [
+      "clang++",
+      "-Ic:\\Users\\Andi\\Downloads\\ejerciciosC++",
+      "-c",
+      "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\edades_2.cpp"
+    ]
+  },
+  {
+    "directory": "c:\\Users\\Andi\\Downloads\\ejerciciosC++",
+    "file": "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\ejemplomientras.cpp",
+    "arguments": [
+      "clang++",
+      "-Ic:\\Users\\Andi\\Downloads\\ejerciciosC++",
+      "-c",
+      "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\ejemplomientras.cpp"
+    ]
+  },
+  {
+    "directory": "c:\\Users\\Andi\\Downloads\\ejerciciosC++",
+    "file": "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\laboratorio_1.cpp",
+    "arguments": [
+      "clang++",
+      "-Ic:\\Users\\Andi\\Downloads\\ejerciciosC++",
+      "-c",
+      "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\laboratorio_1.cpp"
+    ]
+  },
+  {
+    "directory": "c:\\Users\\Andi\\Downloads\\ejerciciosC++",
+    "file": "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\laboratorio_2.cpp",
+    "arguments": [
+      "clang++",
+      "-Ic:\\Users\\Andi\\Downloads\\ejerciciosC++",
+      "-c",
+      "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\laboratorio_2.cpp"
+    ]
+  },
+  {
+    "directory": "c:\\Users\\Andi\\Downloads\\ejerciciosC++",
+    "file": "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\operaciones_.cpp",
+    "arguments": [
+      "clang++",
+      "-Ic:\\Users\\Andi\\Downloads\\ejerciciosC++",
+      "-c",
+      "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\operaciones_.cpp"
+    ]
+  },
+  {
+    "directory": "c:\\Users\\Andi\\Downloads\\ejerciciosC++",
+    "file": "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\opp.cpp",
+    "arguments": [
+      "clang++",
+      "-Ic:\\Users\\Andi\\Downloads\\ejerciciosC++",
+      "-c",
+      "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\opp.cpp"
+    ]
+  },
+  {
+    "directory": "c:\\Users\\Andi\\Downloads\\ejerciciosC++",
+    "file": "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\promediogrupo_1.cpp",
+    "arguments": [
+      "clang++",
+      "-Ic:\\Users\\Andi\\Downloads\\ejerciciosC++",
+      "-c",
+      "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\promediogrupo_1.cpp"
+    ]
+  },
+  {
+    "directory": "c:\\Users\\Andi\\Downloads\\ejerciciosC++",
+    "file": "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\prueba1.cpp",
+    "arguments": [
+      "clang++",
+      "-Ic:\\Users\\Andi\\Downloads\\ejerciciosC++",
+      "-c",
+      "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\prueba1.cpp"
+    ]
+  },
+  {
+    "directory": "c:\\Users\\Andi\\Downloads\\ejerciciosC++",
+    "file": "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\edad_2.cpp\\edad_2.cpp",
+    "arguments": [
+      "clang++",
+      "-Ic:\\Users\\Andi\\Downloads\\ejerciciosC++",
+      "-c",
+      "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\ActivdadesC++\\edad_2.cpp\\edad_2.cpp"
+    ]
+  },
+  {
+    "directory": "c:\\Users\\Andi\\Downloads\\ejerciciosC++",
+    "file": "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\Fundamentos-Programacion-Ejercicios\\Ejercicio2\\ejercicio2.cpp",
+    "arguments": [
+      "clang++",
+      "-Ic:\\Users\\Andi\\Downloads\\ejerciciosC++",
+      "-c",
+      "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\Fundamentos-Programacion-Ejercicios\\Ejercicio2\\ejercicio2.cpp"
+    ]
+  },
+  {
+    "directory": "c:\\Users\\Andi\\Downloads\\ejerciciosC++",
+    "file": "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\Fundamentos-Programacion-Ejercicios\\Ejercicio1\\ejercicio1.cpp\\ejercicio1.cpp",
+    "arguments": [
+      "clang++",
+      "-Ic:\\Users\\Andi\\Downloads\\ejerciciosC++",
+      "-c",
+      "c:\\Users\\Andi\\Downloads\\ejerciciosC++\\Fundamentos-Programacion-Ejercicios\\Ejercicio1\\ejercicio1.cpp\\ejercicio1.cpp"
+    ]
+  }
+]

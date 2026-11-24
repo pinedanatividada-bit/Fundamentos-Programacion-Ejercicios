@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Build and Run with Launcher",
+      "type": "cppdbg",
+      "request": "launch",
+      "preLaunchTask": "builder",
+      "program": "C:\\MinGW\\bin\\launcher.exe",
+      "args": [
+        "${fileDirname}/output/${fileBasenameNoExtension}.exe"
+      ],
+      "cwd": "${fileDirname}",
+      "externalConsole": true,
+      "stopAtEntry": false,
+      "MIMode": "gdb"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Andi/Downloads/ejerciciosC++",
+      "program": "c:/Users/Andi/Downloads/ejerciciosC++/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

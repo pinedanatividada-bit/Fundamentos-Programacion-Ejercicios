@@ -1,0 +1,43 @@
+V	2	c:/Users/Andi/Downloads/ejerciciosC++	10338971861573809747
+F	ActivdadesC++/edad_1.cpp	13439266639418	2229	94	1
+S	function	4	9	main	main	0	int main()
+I	1	iostream
+F	ActivdadesC++/edad_2.cpp/edad_2.cpp	13438667479428	297	21	1
+S	function	4	9	main	main	0	int main()
+I	1	iostream
+F	ActivdadesC++/edades_2.cpp	13438667499688	275	19	1
+S	function	4	9	main	main	0	int main()
+I	1	iostream
+F	ActivdadesC++/ejemplomientras.cpp	13438985935351	199	14	1
+S	function	4	9	main	main	0	int main()
+I	1	iostream
+F	ActivdadesC++/laboratorio_1.cpp	13439273505293	1002	44	1
+S	function	4	9	main	main	0	int main()
+I	1	iostream
+F	ActivdadesC++/laboratorio_2.cpp	13438989696950	921	40	1
+S	function	4	9	main	main	0	int main()
+I	1	iostream
+F	ActivdadesC++/operaciones_.cpp	13439277045013	4740	72	1
+S	function	4	9	main	main	0	int main()
+I	1	iostream
+F	ActivdadesC++/opp.cpp	13439273844688	2226	71	1
+S	function	4	9	main	main	0	int main()
+I	1	iostream
+F	ActivdadesC++/promediogrupo_1.cpp	13439277657868	833	29	1
+S	function	4	9	main	main	0	int main()
+I	1	iostream
+F	ActivdadesC++/prueba1.cpp	13438989699801	98	11	1
+S	function	5	9	main	main	0	int main()
+I	1	iostream
+F	Fundamentos-Programacion-Ejercicios/Ejercicio1/ejercicio1.cpp/ejercicio1.cpp	13439512428482	171	12	1
+S	function	3	9	main	main	0	int main()
+I	1	iostream
+F	Fundamentos-Programacion-Ejercicios/Ejercicio2/ejercicio2.cpp	13439417213106	444	24	1
+S	function	4	9	main	main	0	int main()
+I	1	iostream
+F	calificacion_1.cpp	13438669822778	796	43	1
+S	function	5	9	main	main	0	int main()
+S	function	11	12	getline	getline	1	getline(cin,nombre)
+R	calls	11	func:main	getline
+I	1	iostream
+I	2	string
