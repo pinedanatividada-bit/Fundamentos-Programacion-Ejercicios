@@ -3,7 +3,7 @@ using namespace std;
 int main() {
 int contador = 2;
 
-while (contador <= 20)
+while (contador <= 50)
 {
     cout <<contador << endl;
     contador = contador + 2;  
